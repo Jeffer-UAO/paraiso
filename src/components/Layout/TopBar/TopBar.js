@@ -5,17 +5,13 @@ import Link from "next/link";
 export function TopBar() {
   return (
     <div className={styles.topBarComponent}>
-      <div className={styles.topBar}>
+    
         <Link href="/">
-          <CardImg src="/image/logo.png" alt="Meladitos" />{" "}
+          <CardImg src="/image/logo-paraiso.png" alt="" />{" "}
         </Link>
 
-        <div className={styles.title}>
-          <p className={styles.text}>ALMACEN Y DISTRIBUIDORA</p>
-          <p className={styles.name}>LOS MELADITOS</p>
-          <p className={styles.extra}>EL DE LOS PRECIOS BAJITOS</p>
-        </div>
-      </div>
+       
+
      
     </div>
   );

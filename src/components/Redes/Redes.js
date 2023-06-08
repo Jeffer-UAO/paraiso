@@ -7,24 +7,19 @@ import { BsFacebook } from "react-icons/bs";
 
 
 
-
-
-
-
-
-
 export function Redes() {
   return <div className={styles.space}>
-    <h4>CATÁLOGO 2023</h4>
+
     <div className={styles.phone}>
-      <p><IoLogoWhatsapp  size="20" color="#63f945" /> 322 663 0481 - 313 600 8914</p>
-      <p><GiRotaryPhone color="#ff0202" size="22"/> 881 6111</p>
+      <p><IoLogoWhatsapp  size="20" color="#63f945" /> 311 288 4317 - 311 703 2388</p>
+      <p><GiRotaryPhone color="#ff0202" size="22"/>  885 5203</p>
     </div>
 
   
     <div className={styles.redes}>
-      <p>losmeladitos01 <AiFillInstagram size="22" color="orange" /> </p>
-      <p>@losmeladitos <BsFacebook color="blue" size="20"/></p>
+    <p>paraisodelamoda.paisa@hotmail.com <BsFacebook color="blue" size="20"/></p>
+      <p>paraisodelamoda_paisa <AiFillInstagram size="22" color="orange" /> </p>
+      
    
     </div>
   </div>;
