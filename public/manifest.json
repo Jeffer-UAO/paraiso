@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Naciotex Distribuidora",
-  "short_name": "Catálogo Naciotex",
-  "description": "Catálogo Naciotex",
+  "name": "Paraiso de la moda paisa",
+  "short_name": "Catálogo Paraiso",
+  "description": "Catálogo Paraiso",
   "icons": [
     {
       "src": "/icon-192x192.png",
