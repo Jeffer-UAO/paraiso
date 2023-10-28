@@ -1,5 +1,6 @@
 import { BASE_API } from "../config/constants";
 
+
 export class Products {
   async getProducts() {
     try {
