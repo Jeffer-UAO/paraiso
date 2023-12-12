@@ -6,7 +6,7 @@ export function PageNone(props) {
   return (
     <div className={styles.notfound}>
 
-      <MdOutlineConstruction size ={250}/>
+      <MdOutlineConstruction size ={200}/>
       <h3>{title}</h3>
     </div>
   )
